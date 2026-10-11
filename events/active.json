@@ -1,0 +1,49 @@
+{
+  "slug": "rockland-caterers-and-events-thrissur",
+  "name": "Rockland Caterers & Events",
+  "shortName": "Rockland",
+  "descriptor": "Catering & Events",
+  "address": "680631, Adiyara, Mannumkad, Ramavarmapuram, Thrissur, Keralam 680631",
+  "area": "Adiyara",
+  "city": "Thrissur",
+  "district": "Thrissur",
+  "region": "Kerala",
+  "postalCode": "680631",
+  "geo": {
+    "lat": 10.5534202,
+    "lng": 76.2339021
+  },
+  "mapsLink": "https://maps.google.com/?cid=5627431878657803575",
+  "phone": "+91 93870 70707",
+  "whatsapp": "919387070707",
+  "rating": 4.1,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "name": "henna david",
+      "rating": 5,
+      "quote": "Highly recommended!!! Food was great. Management was always responsive and was ready to accept any changes to the initial plan... Got a lot of options to make the event budget friendly...Good with the timings and food presentation. All positive responses from the guests."
+    },
+    {
+      "name": "Anoop K",
+      "rating": 5,
+      "quote": "I recently had the pleasure of using this catering service, and I couldn’t be more impressed. The food was not only delicious but beautifully presented, making it a true delight for all the guests. The service was impeccable, with staff being attentive and professional throughout. This catering service truly exceeded my expectations.."
+    },
+    {
+      "name": "Krishnaja Abhilash",
+      "rating": 5,
+      "quote": "It was a great experience to have the Rockland team take care of every aspect of my brother's marriage. Their responsiveness and professionalism shined through in almost every segment of the event. I highly recommend their services !"
+    },
+    {
+      "name": "Amal SP",
+      "rating": 5,
+      "quote": "Great food and excellent service. Would recommend it to everyone..."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://rockland-caterers-and-events-thriss.vercel.app"
+}
